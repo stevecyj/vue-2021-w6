@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/hexschool-vue3_vue-router-week6/dist/'
-}
+  publicPath: "/vue-2021-w6/dist/"
+};
